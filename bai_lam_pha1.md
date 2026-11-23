@@ -2,7 +2,7 @@
 
 - **Họ tên:** Trần Xuân Nhật
 - **Lớp:** CNTT3
-- **Link repository Pha1:** 
+- **Link repository Pha1:** https://github.com/Vaaty367/finaltest_promtingAI/blob/72624cabb169ab09d5eb5682417e848c08763c88/bai_lam_pha1.md
 
 > Pha 1 (70 phút đầu, KHÔNG dùng AI). Viết xong, kéo thả file này vào repository Pha1 trước mốc giờ giám thị công bố.
 
